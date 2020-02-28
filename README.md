@@ -1,2 +1,3 @@
-# storybook_example
-Simple Storybook example
+# StoryBook example
+
+## Simple Storybook example with React and typescript
