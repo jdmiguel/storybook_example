@@ -1,3 +1,3 @@
 # StoryBook example
 
-## Simple Storybook example with Storybook 4, React and typescript
+Simple Storybook example with Storybook 4, React and typescript
